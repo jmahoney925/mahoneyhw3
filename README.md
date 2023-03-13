@@ -25,3 +25,4 @@ THEN the password is either displayed in an alert or written to the page
 All my edits were made under the script.js. I added code to ensure all user inputs would be understood and able to create a password for the user. 
 
 ## Repository link 
+https://github.com/jmahoney925/mahoneyhw3
